@@ -63,3 +63,5 @@ package.json
 src/Test.js
 extra.js
 src/pages/**/*.json
+
+.vscode
